@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/__init__.py
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# Environments
+env/
+
+# Checkpoints and results
+checkpoint/
+model_interpreter/
+model_encoder/
+
+# Feature maps
+feature_maps/
+
+# Logs
+log_*
+log.txt
+torchlogs/
+
+# Datasets
+dataset_release/
+datasets/
