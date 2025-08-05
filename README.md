@@ -1,6 +1,6 @@
 # DatasetGAN2-ADA
 
-Paper supporting the code: **Enhanced Deep Style Interpreter for Automatic Synthesis of Annotated Medical Images**
+Code supporting the paper: **Enhanced Deep Style Interpreter for Automatic Synthesis of Annotated Medical Images** ([link](http://dx.doi.org/10.1007/s00521-025-11516-8))
 
 ![alt text](images/DatasetGAN2-ADA_improvements.png)
 
