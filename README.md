@@ -1,6 +1,6 @@
 # DatasetGAN2-ADA
 
-Code supporting the paper: **Enhanced Deep Style Interpreter for Automatic Synthesis of Annotated Medical Images** ([link](http://dx.doi.org/10.1007/s00521-025-11516-8))
+Code supporting the paper **Enhanced deep-style interpreter for automatic synthesis of annotated medical images** ([link](http://dx.doi.org/10.1007/s00521-025-11516-8))
 
 ![alt text](images/DatasetGAN2-ADA_improvements.png)
 
@@ -80,19 +80,14 @@ You can use DatasetGAN2-ADA on your own dataset by reproducing the item `5.2.` o
 
 Please use the following citation if you use our data or code:
 
-<span style="color:red">PENDING</span>
-
-<!-- ## License
-
-PENDING
-
-##### License Dependencies
-
-For any code dependencies related to StyleGAN2, the license is the  Nvidia Source Code License-NC by NVIDIA Corporation, see [StyleGAN2 LICENSE](https://nvlabs.github.io/stylegan2/license.html).
-
-For any code dependencies related to DatasetGAN, the license is the MIT License, see [DatasetGAN LICENSE](https://github.com/nv-tlabs/datasetGAN_release/blob/master/LICENSE.txt).
-
-The dataset of DatasetGAN is released under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by NVIDIA Corporation.
-
-For any code dependencies related to the frontend tool (including html, css and Javascript), the license is the Nvidia Source Code License-NC. To view a copy of this license, visit [./static/LICENSE.md](./static/LICENSE.md). To view a copy of terms of usage, visit [./static/term.txt](./static/term.txt). -->
+```
+@article{PachecoDosSantosLimaJunior2025,
+  author = {Pacheco dos Santos Lima Junior, M. S. and Ortiz-de-Lazcano-Lobato, J. M. and Fernández-Rodríguez, J. D. and López-Rubio, E.},
+  title = {Enhanced deep-style interpreter for automatic synthesis of annotated medical images},
+  journal = {Neural Computing and Applications},
+  year = {2025},
+  doi = {10.1007/s00521-025-11516-8},
+  url = {https://doi.org/10.1007/s00521-025-11516-8}
+}
+```
 
